@@ -1,0 +1,11 @@
+7p76.cif,7p76_wt.pqr,None,6.5
+7p76.cif,7p76_s18a.pqr,A:18:A,6.5
+7p76.cif,7p76_s18g.pqr,A:18:G,6.5
+7p76.cif,7p76_s18v.pqr,A:18:V,6.5
+7p76.cif,7p76_s238a.pqr,A:238:A,6.5
+7p76.cif,7p76_t203a.pqr,A:203:A,6.5
+7p76.cif,7p76_l172a.pqr,A:172:A,6.5
+7p76.cif,7p76_y49a.pqr,A:49:A,6.5
+7p76.cif,7p76_s18a_t203a.pqr,A:18:A;A:203:A,6.5
+7p76.cif,7p76_s18a_t203v.pqr,A:18:A;A:203:V,6.5
+7p76.cif,7p76_s18a_t203a_s238a.pqr,A:18:A;A:203:A;A:238:A,6.5
